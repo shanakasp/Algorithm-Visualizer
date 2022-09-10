@@ -1,6 +1,7 @@
 # AlgoViz
  It's my final year project.
- 
+ ![WhatsApp Image 2022-07-22 at 8 16 36 PM](https://user-images.githubusercontent.com/100334959/189492989-4f77732a-241e-44a7-bbba-f6a1f9b63fd0.jpeg)
+
  # Getting Started with Create React App
 
 This project is based on MERN STACK with different feature.
